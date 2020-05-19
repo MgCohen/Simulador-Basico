@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0bd0a288a13abc489d5cf713e39789a, type: 3}
+  m_Name: Parameters
+  m_EditorClassIdentifier: 
+  Speed: 4
+  speedDescription: Velocidade de movimento das amostras
+  infectionChance: 0.25
+  infctChanceDescription: Chance de uma amostra infectar outra ao colidir
+  Amount: 60
+  amountDescription: 
+  infected: 5
+  infectedDescription: Quantidade inicial de amostras infectadas
+  SampleSize: 0.18
+  sizeDescription: 
+  SampleObjct: {fileID: 425476468266580254, guid: 31b1ba6b8527588468551cd6577b3291,
+    type: 3}
+  infoPop: {fileID: 0}
+  parameterName: Infectados
+  parameterDescription: Quantidade inicial de amostras infectadas
